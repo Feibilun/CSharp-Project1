@@ -1,0 +1,11 @@
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\bin\Debug\netcoreapp2.1\Animal.Lib.deps.json
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\bin\Debug\netcoreapp2.1\Animal.Lib.dll
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\bin\Debug\netcoreapp2.1\Animal.Lib.pdb
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\obj\Debug\netcoreapp2.1\Animal.Lib.csprojAssemblyReference.cache
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\obj\Debug\netcoreapp2.1\Animal.Lib.csproj.CoreCompileInputs.cache
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\obj\Debug\netcoreapp2.1\Animal.Lib.AssemblyInfoInputs.cache
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\obj\Debug\netcoreapp2.1\Animal.Lib.AssemblyInfo.cs
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\obj\Debug\netcoreapp2.1\Animal.Lib.dll
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\obj\Debug\netcoreapp2.1\Animal.Lib.pdb
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\bin\Debug\netcoreapp2.1\BabyStroller.SDK.dll
+C:\Users\feibilun\source\repos\Animals\Animal.Lib\obj\Debug\netcoreapp2.1\Animal.Lib.csproj.CopyComplete
